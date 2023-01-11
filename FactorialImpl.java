@@ -2,7 +2,7 @@ import java.rmi.*;
 import java.rmi.server.*;
 import java.util.HashMap;
 
-// H klash ayth ylopoiei thn apomakrysmenh diepafh Factorial.
+
 public class FactorialImpl extends UnicastRemoteObject implements Factorial {
 	
 	private static final long serialVersionUID = 1;
